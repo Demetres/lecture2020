@@ -140,3 +140,9 @@ div {
                 padding: 20px;
                 text-align: center;
             }
+
+            .row > div {
+                padding: 20px;
+                background-color: orange;
+                border: 2px solid black;
+            }
